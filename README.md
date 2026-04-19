@@ -1,6 +1,4 @@
-Here you go, Jerome — same style as your previous READMEs:
 
----
 
 # ML / AI Engineer Application System
 ### A PDO-Based CRUD Web Application | Web Development Activity
