@@ -87,6 +87,4 @@ The goal of this project is to build a functional **application management syste
 **Purpose:** School Activity — PHP PDO Methods & Database Integration  
 **Dream Job:** Machine Learning / AI Engineer
 
----
 
-Just copy everything between the horizontal lines and paste it into your GitHub repo's README! Let me know if you want to tweak anything.
